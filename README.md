@@ -2,7 +2,7 @@
 University of Pittsburgh Open Data and Government Course Fall 2019 <BR>
 
 # Allegheny County 2000/2010 Census Track Relationships
-This project is published on the Western Pennsylvania Regional Data Center Website: <BR>
+This final course project is published on the Western Pennsylvania Regional Data Center Website: <BR>
 <a href="https://data.wprdc.org/dataset/allegheny-county-2000-2010-census-tract-relationships">Allegheny County 2000/2010 Census Track Relationships</a>
 
 ## DESCRIPTION
