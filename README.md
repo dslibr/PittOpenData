@@ -19,9 +19,9 @@ The relationship file provides the information necessary to conduct a decennial 
 ### pa_allegheny_42003.csv
 
 #### Source
-https://www.census.gov/geographies/reference-files/2010/geo/relationship-files.html#par_textimage_19960473 (access page) <BR>
-https://www2.census.gov/geo/docs/maps-data/data/rel/trf_txt/pa42trf.txt (data) <BR>
-https://www2.census.gov/geo/docs/reference/bndrychange/pennsylvania.txt (2010 PA boundary change file) <BR>
+<a href="https://www.census.gov/geographies/reference-files/2010/geo/relationship-files.html#par_textimage_19960473">https://www.census.gov/geographies/reference-files/2010/geo/relationship-files.html#par_textimage_19960473</a> (access page) <BR>
+<a href="https://www2.census.gov/geo/docs/maps-data/data/rel/trf_txt/pa42trf.txt">https://www2.census.gov/geo/docs/maps-data/data/rel/trf_txt/pa42trf.txt</a> (data) <BR>
+<a href="https://www2.census.gov/geo/docs/reference/bndrychange/pennsylvania.txt">https://www2.census.gov/geo/docs/reference/bndrychange/pennsylvania.txt</a> (2010 PA boundary change file) <BR>
 
 #### Description
 This file is a subset of the Pennsylvania relationship file that was retrieved directly from the Census Bureau (pa42trf.txt). This file includes any record where either TRACT00 or TRACT10 in pa42trf.txt was 3, indicating Allegheny County. Tracts are required to follow county lines, however, some of the records had another county specified as TRACT00 with Allegheny County as TRACT10 or vice versa. The 2010 boundary change file for Pennsylvania does not show any boundary changes for Allegheny County. According to Chris Briem, an economist from the University Center for Social and Urban Research (UCSUR), the Census Bureau updated its Pennsylvania geography between the 2000 and 2010 Censuses. The changes in the geography forced adjustments in the tract boundaries, which are reflected in the relationship file. After looking at the 2000 tract and county shape files, he said 2000 tracts line up with 2000 county lines. Likewise, after looking at the 2010 tract and county shape files, he said 2010 tracts line up with 2010 county lines. If working with a 2000 tract (TRACT00) for which the adjustment involved a non-Allegheny County tract, use the POP00 and HU00 values in the same way as with tracts involving only Allegheny County. <BR> <BR>
@@ -33,7 +33,7 @@ Allegheny Census tract boundaries changed significantly after the 2000 Census. C
 ### Data Dictionary.csv
 
 #### Source
-https://www.census.gov/programs-surveys/geography/technical-documentation/records-layout/2010-census-tract-record-layout.html
+<a href="https://www.census.gov/programs-surveys/geography/technical-documentation/records-layout/2010-census-tract-record-layout.html">https://www.census.gov/programs-surveys/geography/technical-documentation/records-layout/2010-census-tract-record-layout.html</a>
 
 #### Description
 This file contains information about the fields in the 2000 to 2010 Census Tract Relationship file.
@@ -41,12 +41,12 @@ This file contains information about the fields in the 2000 to 2010 Census Tract
 ### About Tracts and Boundary Changes.pdf
 
 #### Sources
-https://www.census.gov/programs-surveys/geography/guidance/geographic-areas-reference-manual.html (Geographic Areas Reference Manual) <BR>
-https://www2.census.gov/geo/pdfs/reference/GARM/Ch10GARM.pdf (Chapter 10: Census Tracts and Block Numbering Areas) <BR>
-https://www.census.gov/programs-surveys/geography/guidance/hierarchy.html (Hierarchy Diagrams) <BR>
-https://www2.census.gov/geo/pdfs/reference/geodiagram.pdf?# (Standard Hierarchy of Census Geographic Areas) <BR>
-https://www2.census.gov/geo/pdfs/education/CensusTracts.pdf (PDF of slide presentation about Census Tracts) <BR>
-https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/ (TIGER shape files for 2000 and 2010 Census tracts) <BR>
+<a href="https://www.census.gov/programs-surveys/geography/guidance/geographic-areas-reference-manual.html"https://www.census.gov/programs-surveys/geography/guidance/geographic-areas-reference-manual.html</a> (Geographic Areas Reference Manual) <BR>
+<a href="https://www2.census.gov/geo/pdfs/reference/GARM/Ch10GARM.pdf">hhttps://www2.census.gov/geo/pdfs/reference/GARM/Ch10GARM.pdf</a> (Chapter 10: Census Tracts and Block Numbering Areas) <BR>
+<a href="https://www.census.gov/programs-surveys/geography/guidance/hierarchy.html">https://www.census.gov/programs-surveys/geography/guidance/hierarchy.html</a> (Hierarchy Diagrams) <BR>
+<a href="https://www2.census.gov/geo/pdfs/reference/geodiagram.pdf?#">https://www2.census.gov/geo/pdfs/reference/geodiagram.pdf?#</a> (Standard Hierarchy of Census Geographic Areas) <BR>
+<a href="https://www2.census.gov/geo/pdfs/education/CensusTracts.pdf">https://www2.census.gov/geo/pdfs/education/CensusTracts.pdf</a> (PDF of slide presentation about Census Tracts) <BR>
+<a href="https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/">https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/</a> (TIGER shape files for 2000 and 2010 Census tracts) <BR>
 
 #### Description
 This file includes information about Census tracts and the relationship file. It describes the purpose of Census tracts and how and why tract boundaries change. 
@@ -54,7 +54,7 @@ This file includes information about Census tracts and the relationship file. It
 ### Tract 402 Area Changes Illustrated.pdf
 
 #### Source
-https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/ (TIGER shape files for 2000 and 2010 Census tracts)
+<a href="https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/">https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/</a> (TIGER shape files for 2000 and 2010 Census tracts)
 
 #### Description
 This file uses a map and the area of tract 402 to illustrate how each relationship file record corresponds to a unique tract boundary change. Although population is what drives Census tract boundary changes, area lends itself well to visualization, which promotes a more intuitive understanding of the relationships of tracts across Censuses. Changes in area do not always mean population and housing unit counts changed because of the new conventions for unpopulated areas, however, population and/or housing unit count changes necessarily involve a change in area.  <BR> <BR>
@@ -64,8 +64,8 @@ The boundary lines are dark green where the 2000 tract boundaries coincide with 
 ### 2000Tracts-2010Tracts.png
 
 #### Sources
-https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract00.zip (2000 Census tract boundaries) <BR>
-https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract10.zip (2010 Census tract boundaries) <BR>
+<a href="https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract00.zip">https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract00.zip</a> (2000 Census tract boundaries) <BR>
+<a href="https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract10.zip">https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract10.zip</a> (2010 Census tract boundaries) <BR>
 
 #### Description
 This file is an image of 2000 Census tract boundaries overlaid with 2010 Census tract boundaries. The purpose of this file is to illustrate the changes to tract boundaries for the 2010 Census. The boundary lines are dark green where the 2000 tract boundaries coincide with the 2010 tract boundaries. The 2010 Census tract boundaries are light green in color and the 2000 Census tract boundaries are black in color where they differ from each other, indicating tract changes between the two Censuses. The tract numbers displayed are those of the 2010 Census.
@@ -212,8 +212,8 @@ For tracts new in 2010, the JSON file only has the ‘<Measure> incorporated int
 ### AlleghenyMunicipal-2010Tracts.png
 
 #### Sources
-https://data.wprdc.org/dataset/allegheny-county-municipal-boundaries (Allegheny County municipal boundaries) <BR>
-https://www2.census.gov/geo/tiger/TIGER2010/COUNTY/2010/ (Pennsylvania county boundaries) <BR>
+<a href="https://data.wprdc.org/dataset/allegheny-county-municipal-boundaries">https://data.wprdc.org/dataset/allegheny-county-municipal-boundaries</a> (Allegheny County municipal boundaries) <BR>
+<a href="https://www2.census.gov/geo/tiger/TIGER2010/COUNTY/2010/">https://www2.census.gov/geo/tiger/TIGER2010/COUNTY/2010/</a> (Pennsylvania county boundaries) <BR>
 
 #### Description
 This file is an image of Allegheny County municipal boundaries overlaid with 2010 Census tract boundaries. The purpose of this file is to assist users in finding any tracts or parts of tracts that reside within a particular municipality. The 2010 Census tract boundaries are light blue in color. The municipal boundaries are purple where they coincide with the tract boundaries. The red lines are municipal boundaries that do not coincide with tract boundaries. 
@@ -222,7 +222,7 @@ This file is an image of Allegheny County municipal boundaries overlaid with 201
 ### tl_2010_42003_tract00.zip
 
 #### Source
-https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract00.zip
+<a href="https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract00.zip">https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract00.zip</a>
 
 #### Description
 This file contains TIGER shape files for the 2000 tract boundaries for Allegheny County.
@@ -232,7 +232,7 @@ This file contains TIGER shape files for the 2000 tract boundaries for Allegheny
 
 
 #### Source
-https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract10.zip
+<a href="https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract10.zip">https://www2.census.gov/geo/pvs/tiger2010st/42_Pennsylvania/42003/tl_2010_42003_tract10.zip</a>
 
 #### Description
 This file contains TIGER shape files for the 2010 tract boundaries for Allegheny County.
