@@ -41,8 +41,8 @@ This file contains information about the fields in the 2000 to 2010 Census Tract
 ### About Tracts and Boundary Changes.pdf
 
 #### Sources
-<a href="https://www.census.gov/programs-surveys/geography/guidance/geographic-areas-reference-manual.html"https://www.census.gov/programs-surveys/geography/guidance/geographic-areas-reference-manual.html</a> (Geographic Areas Reference Manual) <BR>
-<a href="https://www2.census.gov/geo/pdfs/reference/GARM/Ch10GARM.pdf">hhttps://www2.census.gov/geo/pdfs/reference/GARM/Ch10GARM.pdf</a> (Chapter 10: Census Tracts and Block Numbering Areas) <BR>
+<a href="https://www.census.gov/programs-surveys/geography/guidance/geographic-areas-reference-manual.html">https://www.census.gov/programs-surveys/geography/guidance/geographic-areas-reference-manual.html</a> (Geographic Areas Reference Manual) <BR>
+<a href="https://www2.census.gov/geo/pdfs/reference/GARM/Ch10GARM.pdf">https://www2.census.gov/geo/pdfs/reference/GARM/Ch10GARM.pdf</a> (Chapter 10: Census Tracts and Block Numbering Areas) <BR>
 <a href="https://www.census.gov/programs-surveys/geography/guidance/hierarchy.html">https://www.census.gov/programs-surveys/geography/guidance/hierarchy.html</a> (Hierarchy Diagrams) <BR>
 <a href="https://www2.census.gov/geo/pdfs/reference/geodiagram.pdf?#">https://www2.census.gov/geo/pdfs/reference/geodiagram.pdf?#</a> (Standard Hierarchy of Census Geographic Areas) <BR>
 <a href="https://www2.census.gov/geo/pdfs/education/CensusTracts.pdf">https://www2.census.gov/geo/pdfs/education/CensusTracts.pdf</a> (PDF of slide presentation about Census Tracts) <BR>
